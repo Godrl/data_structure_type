@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b42f3081-5935-4a10-8bda-d750b841f385" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structure_type.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data_structure_type.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/data_structure_type/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/data_structure_type_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+    <list default="true" id="b42f3081-5935-4a10-8bda-d750b841f385" name="Default Changelist" comment="Rroject Setting">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data_structure_type.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_structure_type.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +43,16 @@
       <option name="presentableId" value="Default" />
       <updated>1630461365819</updated>
       <workItem from="1630461367021" duration="134000" />
-      <workItem from="1630461503975" duration="1902000" />
+      <workItem from="1630461503975" duration="3999000" />
     </task>
+    <task id="LOCAL-00001" summary="Rroject Setting">
+      <created>1630463666163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630463666163</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +69,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rroject Setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rroject Setting" />
   </component>
 </project>
