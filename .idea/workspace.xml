@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b42f3081-5935-4a10-8bda-d750b841f385" name="Default Changelist" comment="버전 업데이트">
+    <list default="true" id="b42f3081-5935-4a10-8bda-d750b841f385" name="Default Changelist" comment="changelog_uri 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure_type.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure_type.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/data_structure_type/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data_structure_type/version.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630461365819</updated>
       <workItem from="1630461367021" duration="134000" />
-      <workItem from="1630461503975" duration="7543000" />
+      <workItem from="1630461503975" duration="8270000" />
     </task>
     <task id="LOCAL-00001" summary="Rroject Setting">
       <created>1630463666163</created>
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630471038456</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changelog_uri 수정">
+      <created>1630471401971</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1630471401971</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +112,7 @@
     <MESSAGE value="ignore 추가" />
     <MESSAGE value="초기화 에러 수정, 함수명 변경" />
     <MESSAGE value="버전 업데이트" />
-    <option name="LAST_COMMIT_MESSAGE" value="버전 업데이트" />
+    <MESSAGE value="changelog_uri 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="changelog_uri 수정" />
   </component>
 </project>
