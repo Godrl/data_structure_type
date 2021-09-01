@@ -2,7 +2,7 @@ module DataStructureType
   class Stack
 
     def initialize
-      @stack = Stack.new
+      @stack = []
     end
 
     def add(data)
@@ -10,14 +10,14 @@ module DataStructureType
     end
 
     def peek
-      @stack.last unless @stack.is_empty?
+      @stack.last unless @stack.empty?
     end
 
     def pop
-      @stack.pop unless @stack.is_empty?
+      @stack.pop unless @stack.empty?
     end
 
-    def is_empty?
+    def empty?
       @stack.empty?
     end
   end
