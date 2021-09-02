@@ -1,12 +1,11 @@
 module DataStructureType
   class Stack
-
     def initialize
       @stack = []
     end
 
     def add(data)
-      @stack.push(data) if data.present?
+      data.present? ? @stack.push(data) : @stack
     end
 
     def peek
@@ -21,7 +20,6 @@ module DataStructureType
       @stack.empty?
     end
   end
-
 end
 
 
